@@ -3,7 +3,7 @@
     "fields": [
       {
         "anchorText": null,
-        "name": "load_number",
+        "name": "pickup_facility",
         "page": 0,
         "points": [
           {
@@ -13,11 +13,11 @@
             "y": 78.82709252249998
           }
         ],
-        "removeText": "TRUCKLOAD RATE CONFIRMATION: FF"
+        "removeText": null
       }
     ],
-    "id": "tpl_1789700053164",
-    "name": "FreightFlex",
-    "signature": "FREIGHT FLEX WILL"
+    "id": "tpl_1789700907244",
+    "name": "warwr",
+    "signature": "TRUCKLOAD RATE CONFIRMATION: FF131710710"
   }
 ]
