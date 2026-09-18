@@ -1,1 +1,23 @@
-
+[
+  {
+    "fields": [
+      {
+        "anchorText": null,
+        "name": "load_number",
+        "page": 0,
+        "points": [
+          {
+            "h": 18.685004410799998,
+            "w": 452.57455235601435,
+            "x": 190.15857713685,
+            "y": 78.82709252249998
+          }
+        ],
+        "removeText": "TRUCKLOAD RATE CONFIRMATION: FF"
+      }
+    ],
+    "id": "tpl_1789700053164",
+    "name": "FreightFlex",
+    "signature": "FREIGHT FLEX WILL"
+  }
+]
